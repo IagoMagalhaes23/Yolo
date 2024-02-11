@@ -7,5 +7,8 @@ O objetivo deste repositório é aplicar diferentes versões do Yolo para datase
 Você só olha uma vez (YOLO) é um sistema de detecção de objetos em tempo real de última geração. Com ele, você pode fazer diversas tarefas
 desde realizar detecção e rastreamento de objetos, segmentação e treinar classificadores e rastreadores personalizados.
 
+## Projetos
+
+
 ## Referências
 - https://pjreddie.com/darknet/yolo/
